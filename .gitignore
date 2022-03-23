@@ -1,0 +1,7 @@
+.gitignore
+.idea/misc.xml
+.idea/get-learning.iml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+scratch.py
+.idea/vcs.xml
